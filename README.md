@@ -53,7 +53,7 @@ Expected Output:
 <br>
 
 ## SOLUTION
-####Brief description of classes- 
+#### Brief description of classes- 
 
 * Plateau class contains the lower left and upper right coordinates of the plateau.
 * Rover class implements the functionality and attributes of rover.It contains a reference for Location object.
@@ -67,7 +67,7 @@ LocationWest
 
 Each of this class is responsible for moving the rover in respective direction and changing the heading direction accordingly.
 
-####Test
+#### Test
 RoverTest.java
 
 Output -
